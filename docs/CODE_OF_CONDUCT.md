@@ -78,3 +78,5 @@ Actions we may take in response to an abuse report include but are not limited t
 ## Appeal and Reinstatement
 
 In some cases there may be a basis to reverse an action, for example, based on additional information a user provided, or where a user has addressed the violation and agreed to abide by our Acceptable Use Policies moving forward. If you wish to appeal an enforcement action, please contact [support](https://support.github.com/contact).
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=CODE_OF_CONDUCT.md

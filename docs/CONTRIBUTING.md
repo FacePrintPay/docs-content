@@ -215,3 +215,5 @@ Here starts the content…
 ## Writing Guidelines
 
 Refer to the [Scaleway Documentation Guidelines](https://www.scaleway.com/en/docs/guidelines/) for an extensive list of our writing guidelines.
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=CONTRIBUTING.md
